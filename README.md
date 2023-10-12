@@ -13,4 +13,4 @@
 
 <br>
 
-![CreamHurdleRun](https://github.com/xaesu/Unity-CreamHurdleRun/assets/133942666/6f91bd80-ec4d-4141-a529-7a26beeab65c)
+![CreamHurdleRun](https://github.com/xaesu/Unity-CreamHurdleRun/assets/133942666/6e064c13-2898-469a-a602-e46987ae2834)
